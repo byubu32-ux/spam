@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# main.py - AXKA-OTP Spammer (FINAL - RAPIH + COWSAY + TANPA SOUND + PHISING)
+# main.py - koni-OTP Spammer (FINAL - RAPIH + COWSAY + TANPA SOUND + PHISING)
 
 import sys
 import time
