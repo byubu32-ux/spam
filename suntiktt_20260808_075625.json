@@ -1,0 +1,89 @@
+{
+  "template": "suntiktt",
+  "timestamp": "20260808_075625",
+  "system_info": {
+    "hostname": "localhost",
+    "ip_local": "127.0.0.1",
+    "platform": "Android",
+    "platform_release": "8.1.0",
+    "platform_version": "#1 SMP PREEMPT Thu Oct 10 12:18:59 CST 2024",
+    "processor": "",
+    "machine": "aarch64",
+    "architecture": "('64bit', 'ELF')",
+    "python_version": "3.14.6",
+    "time": "2026-08-08T07:56:24.657007",
+    "cpu_count": 8,
+    "processor_model": "Qualcomm Technologies, Inc SDM439",
+    "memory_total_mb": 2828,
+    "memory_total_gb": 2.76,
+    "ip_public": "182.2.77.34",
+    "geoip": {
+      "city": "Tidak diketahui",
+      "region": "Tidak diketahui",
+      "country": "Tidak diketahui",
+      "lat": 0,
+      "lon": 0,
+      "isp": "Tidak diketahui"
+    },
+    "city": "Wonosobo",
+    "region": "Central Java",
+    "country": "Indonesia",
+    "lat": -7.36,
+    "lon": 109.9025,
+    "accuracy": 5000,
+    "accuracy_level": "Perkiraan (IP)",
+    "location_source": "IP Geolocation",
+    "maps_link": "https://www.google.com/maps?q=-7.36,109.9025"
+  },
+  "user_data": {
+    "link": "https",
+    "category": "views",
+    "location": {
+      "lat": -7.36,
+      "lon": 109.9025,
+      "accuracy": 5000,
+      "city": "Wonosobo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "ip": "182.2.77.34"
+    },
+    "systemInfo": {
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1811 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile Safari/537.36 VivoBrowser/16.2.5.1",
+      "platform": "Linux aarch64",
+      "language": "id-ID",
+      "hardwareConcurrency": 8,
+      "deviceMemory": 0,
+      "screenWidth": 360,
+      "screenHeight": 760,
+      "colorDepth": 24,
+      "pixelRatio": 2,
+      "timezone": "Asia/Jakarta",
+      "timezoneOffset": -420,
+      "cookieEnabled": true,
+      "touchSupported": true,
+      "maxTouchPoints": 5,
+      "connection": {
+        "effectiveType": "4g",
+        "rtt": 0,
+        "downlink": 9.4
+      }
+    },
+    "timestamp": "2026-08-08T00:56:24.442Z",
+    "timestampLocal": "Sat Aug 08 2026 07:56:24 GMT+0700 (Waktu Indonesia Barat)",
+    "accuracy_level": "Perkiraan (IP)",
+    "location_source": "IP Geolocation"
+  },
+  "client_ip": "10.181.146.201",
+  "client_headers": {
+    "Host": "10.181.146.201:3000",
+    "Connection": "keep-alive",
+    "Content-Length": "895",
+    "User-Agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1811 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile Safari/537.36 VivoBrowser/16.2.5.1",
+    "Content-Type": "application/json",
+    "Accept": "*/*",
+    "Origin": "http://10.181.146.201:3000",
+    "Referer": "http://10.181.146.201:3000/",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"
+  }
+}
